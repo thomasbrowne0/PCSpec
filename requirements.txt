@@ -1,0 +1,6 @@
+gpuinfo==1.0.0a7
+GPUtil==1.4.0
+psutil==6.1.1
+py-cpuinfo==9.0.0
+random2==1.0.2
+setuptools==75.8.0
